@@ -15,5 +15,5 @@ Handling the OOV:
 Hardcode method were used for:
 words ends_in_s --> .5NNS
 Begin with capital --> .5NNP
-consist digits -->1.0CD
+consist digits -->1.0CD  
 All other OOV items used constant of 1/100000 
